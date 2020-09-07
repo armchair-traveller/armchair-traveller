@@ -8,7 +8,7 @@ Oh, and my deploys are done through [Netlify](https://www.netlify.com/). Real ti
 
 ### Chingu Voyages & Web Development
 
-I participate in [Chingu](https://www.chingu.io/) projects on a regular basis to collaborate with people who have the same goals of learning more about web development and furthering their skills. This has pushed and accelerated my learning, and has given me new perspectives on team productivity, as well as an idea on how others write their code. Completed two 6-week voyages so far: v14 and [v20-toucans-team-01](https://github.com/chingu-voyages/v20-toucans-team-01). I am currently in [v22-geckos-team-03](https://github.com/chingu-voyages/v22-geckos-team-03).
+I participate in [Chingu](https://www.chingu.io/) projects on a regular basis to collaborate with people who have the same goals of learning more about web development and furthering their skills. This has pushed and greatly accelerated my learning, and has given me new perspectives on team productivity, as well as an idea on how others write their code. Completed two 6-week voyages so far: v14 and [v20-toucans-team-01](https://github.com/chingu-voyages/v20-toucans-team-01). I am currently in [v22-geckos-team-03](https://github.com/chingu-voyages/v22-geckos-team-03).
 
 ### What I'm currently doing
 
