@@ -1,4 +1,4 @@
-### Hi there! I'm Fang
+### Hi there! I'm Fang🦁
 
 I am a front end web developer that has a passion for building applications in the JAM (JavaScript, APIs, Markup) stack with Serverless tech. The JAM stack really emphasizes how all-powerful JavaScript has become! Even though my skills primarily lie in front end, I also know a bit of Node.js because **It's Just JavaScript**™ and it's such an influential piece of technology that is crucial for modern web development workflows, even in the front end.
 
