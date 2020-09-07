@@ -8,7 +8,7 @@ Oh, and my deploys are mostly done through Netlify. Real time saver that has ton
 
 ### Chingu Voyages
 
-I participate in [Chingu](https://www.chingu.io/) projects on a regular basis to work with people who have the same goals of learning more about web development. Completed two 6-week voyages so far: v14 and [v20-toucans-team-01](https://github.com/chingu-voyages/v20-toucans-team-01) and am currently in [v22-geckos-team-03](https://github.com/chingu-voyages/v22-geckos-team-03).
+I participate in [Chingu](https://www.chingu.io/) projects on a regular basis to work with people who have the same goals of learning more about web development and furthering their skills. Completed two 6-week voyages so far: v14 and [v20-toucans-team-01](https://github.com/chingu-voyages/v20-toucans-team-01) and am currently in [v22-geckos-team-03](https://github.com/chingu-voyages/v22-geckos-team-03).
 
 <!--
 **armchair-traveller/armchair-traveller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
