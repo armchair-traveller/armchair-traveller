@@ -1,6 +1,6 @@
 ### Hi there! I'm Fang
 
-I am a front end web developer that has a passion for building applications in the JAM (JavaScript, APIs, Markup) stack with Serverless tech! The JAM stack really emphasizes how all-powerful JavaScript has become. Even though I'm front end, I also know a bit of Node.js because **It's Just JavaScript**™ and it's such an influential piece of technology that is crucial for modern web development workflows, even in the front end.
+I am a front end web developer that has a passion for building applications in the JAM (JavaScript, APIs, Markup) stack with Serverless tech. The JAM stack really emphasizes how all-powerful JavaScript has become! Even though my skills primarily lie in front end, I also know a bit of Node.js because **It's Just JavaScript**™ and it's such an influential piece of technology that is crucial for modern web development workflows, even in the front end.
 
 I can't help loving the modern web and its amazing ecosystem. I've used React with Gatsby, and more recently Svelte with Sapper. Really hoping that Svelte takes off because all it lacks is a larger ecosystem and you're missing out if you haven't tried Svelte yet! Some very impressive stuff. Nifty.
 
