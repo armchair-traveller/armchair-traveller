@@ -4,7 +4,7 @@ I am a front end web developer that has a passion for building applications in t
 
 I can't help loving the modern web and how powerful JavaScript has become. I've used React with Gatsby and more recently Svelte with Sapper. Really hoping that Svelte takes off because all it lacks is a larger ecosystem and you're missing out if you haven't tried Svelte yet! Some very impressive stuff. Nifty.
 
-Oh, and my deploys are mostly done through Netlify. Real time saver that has tons of amazing features, check them out if you haven't yet!
+Oh, and my deploys are mostly done through Netlify. Real time saver that has tons of amazing features, check them out if you haven't heard of them!
 
 ### Chingu Voyages
 
