@@ -16,9 +16,9 @@ I participate in [Chingu](https://www.chingu.io/) projects on a regular basis to
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armchair-traveller&layout=compact&hide=makefile&theme=nord" alt="Most used languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armchair-traveller&layout=compact&hide=makefile&theme=nord" alt="Most used languages" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=armchair-traveller&show_icons=true&count_private=true&hide=contribs,prs&theme=nord" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=armchair-traveller&show_icons=true&count_private=true&hide=stars,prs&theme=nord" alt="GitHub stats" />
 
 </p>
 
