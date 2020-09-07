@@ -12,7 +12,7 @@ I participate in [Chingu](https://www.chingu.io/) projects on a regular basis to
 
 ### What I'm currently doing
 
-🌱 Learning [FaunaDB](https://fauna.com/), so that I can have a nice database for my Serverless needs. It's very robust and FQL (Fauna Query Language) appeals to my functional programming tendencies. Especially interested in how it handles auth/RBAC (Role-Based Access Control), so that I can link it up to Netlify Identity and write some CRUD applications in the JAM stack.
+🌱 Learning [FaunaDB](https://fauna.com/), so that I can have a nice database for my Serverless needs. It's very robust and FQL (Fauna Query Language) appeals to my functional programming tendencies. Especially interested in how it handles auth/RBAC (Role-Based Access Control), so that I can link it up to Netlify Identity and write some CRUD (Create Read Update Delete) applications in the JAM stack.
 
 <!--
 **armchair-traveller/armchair-traveller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
