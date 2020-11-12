@@ -10,7 +10,8 @@ Oh, and my deploys are done through [Netlify](https://www.netlify.com/). Real ti
 
 I participate in [Chingu](https://www.chingu.io/) projects on a regular basis to collaborate with people who have the same goals of learning more about web development and furthering their skills. This has pushed and greatly accelerated my learning, and has given me new perspectives on team productivity, as well as an idea on how others learn, work, and write their code. Completed three 6-week voyages so far: v14, [v20-toucans-team-01](https://github.com/chingu-voyages/v20-toucans-team-01), and [v22-geckos-team-03](https://github.com/chingu-voyages/v22-geckos-team-03).
 
-I'm currently developing a JAMstack e-commerce demo using Svelte+Elderjs and Stripe in [v24-bears-05](https://github.com/chingu-voyages/v24-bears-team-05). [Check it out!](https://bearcoffee.netlify.app/)
+I'm currently developing a JAMstack e-commerce demo using Svelte+Elderjs and Stripe in [v24-bears-05](https://github.com/chingu-voyages/v24-bears-team-05).  
+**[Check it out!](https://bearcoffee.netlify.app/)**
 
 <!-- Unnecessary at the moment
 ### What I'm currently doing
