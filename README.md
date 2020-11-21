@@ -8,10 +8,10 @@ Oh, and my preferred platform is [Netlify](https://www.netlify.com/). Real time 
 
 ### Chingu Voyages & Web Development
 
-I participate in [Chingu](https://www.chingu.io/) projects on a regular basis to collaborate with people who have the same goals of learning more about web development and furthering their skills. This has pushed and greatly accelerated my learning, and has given me new perspectives on team productivity, as well as an idea on how others learn, work, and write their code. Completed three 6-week voyages so far: v14, [v20-toucans-team-01](https://github.com/chingu-voyages/v20-toucans-team-01), and [v22-geckos-team-03](https://github.com/chingu-voyages/v22-geckos-team-03).
+I participate in [Chingu](https://www.chingu.io/) projects on a regular basis to collaborate with people who have the same goals of learning more about web development and furthering their skills. This has pushed and greatly accelerated my learning, and has given me new perspectives on team productivity, as well as an idea on how others learn, work, and write their code. Completed four 6-week voyages so far. The ones worth a mention:
 
-I'm currently developing a JAMstack e-commerce demo using Svelte+Elderjs and Stripe in [v24-bears-05](https://github.com/chingu-voyages/v24-bears-team-05).  
-**[Check it out!](https://bearcoffee.netlify.app/)**
+- [v20-toucans-team-01](https://github.com/chingu-voyages/v20-toucans-team-01) [📃 Toucan Recipes](https://toucanrecipes.netlify.app/) - A JAM stack recipe app using React, Gatsby, and Chakra-UI.
+- [v24-bears-team-05](https://github.com/chingu-voyages/v24-bears-team-05) [☕ Bear Coffee](https://bearcoffee.netlify.app/) - a JAM stack free e-commerce demo using Svelte, Elder.js, and Stripe.
 
 <!-- Unnecessary at the moment
 ### What I'm currently doing
