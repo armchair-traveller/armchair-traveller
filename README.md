@@ -14,21 +14,16 @@ I've completed four 6-week voyages so far. The ones worth a mention:
 [**📃 Toucan Recipes**](https://toucanrecipes.netlify.app/) [(v20-toucans-team-01)](https://github.com/chingu-voyages/v20-toucans-team-01)  - A JAM stack recipe app using React, Gatsby, and Chakra-UI.  
 [**☕ Bear Coffee**](https://bearcoffee.netlify.app/) [(v24-bears-team-05)](https://github.com/chingu-voyages/v24-bears-team-05)  - A JAM stack free e-commerce demo using Svelte, Elder.js, and Stripe.
 
-<!-- Unnecessary at the moment
-### What I'm currently doing
-🌱 Learning [FaunaDB](https://fauna.com/), so that I can have a productive database fit for my Serverless needs. It's very robust and FQL (Fauna Query Language) appeals to my functional tendencies. Especially interested in how it handles auth/RBAC (Role-Based Access Control), so that I can link it up to Netlify Identity and write some CRUD (Create Read Update Delete) applications in the JAM stack.
--->
-
 <p align="center">
   <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armchair-traveller&layout=compact&hide=makefile&theme=nord" alt="Most used languages" />
   <img height="140" src="https://github-readme-stats.vercel.app/api?username=armchair-traveller&show_icons=true&count_private=true&hide=stars,prs&theme=nord" alt="GitHub stats" />
 </p>
 
-<!--
+<!-- Unnecessary at the moment
+### What I'm currently doing
+🌱 Learning [FaunaDB](https://fauna.com/), so that I can have a productive database fit for my Serverless needs. It's very robust and FQL (Fauna Query Language) appeals to my functional tendencies. Especially interested in how it handles auth/RBAC (Role-Based Access Control), so that I can link it up to Netlify Identity and write some CRUD (Create Read Update Delete) applications in the JAM stack.
 **armchair-traveller/armchair-traveller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
