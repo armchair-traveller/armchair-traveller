@@ -10,7 +10,7 @@ My preferred platform is [Netlify](https://www.netlify.com/). Real time saver th
 
 I participate in [Chingu](https://www.chingu.io/) projects on a regular basis to collaborate with people who have the same goals of learning more about web development and furthering their skills. This has pushed and greatly accelerated my learning, and has given me new perspectives on team productivity, as well as an idea on how others learn, work, and write their code. 
 
-I've completed four 6-week voyages so far. The ones worth a mention:  
+I've partaken four 6-week voyages so far. The ones worth a mention:  
 [**📃 Toucan Recipes**](https://toucanrecipes.netlify.app/) [(v20-toucans-team-01)](https://github.com/chingu-voyages/v20-toucans-team-01)  - A JAM stack recipe app using React, Gatsby, and Chakra-UI.  
 [**☕ Bear Coffee**](https://bearcoffee.netlify.app/) [(v24-bears-team-05)](https://github.com/chingu-voyages/v24-bears-team-05)  - A JAM stack free e-commerce demo using Svelte, Elder.js, and Stripe.
 
