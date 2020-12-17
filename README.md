@@ -2,7 +2,7 @@
 
 I'm a front end web developer that has a passion for building applications in the JAM (JavaScript, APIs, Markup) stack with Serverless tech and Node.js. The JAM stack really emphasizes how empowering JavaScript has become! I'm always learning more about JavaScript thanks to it.
 
-I can't help loving the modern web and its amazingly productive tooling. I've used React with Gatsby, and more recently Svelte with Elder.js / Svelte Kit. Really hoping that Svelte takes off because all it lacks is a larger ecosystem and you're missing out if you haven't tried Svelte yet! Nifty stuff.
+I can't help loving the modern web and its amazingly productive tooling. I've used React + Gatsby, and more recently Svelte + Elder.js / Svelte Kit. Really hoping that Svelte takes off because all it lacks is a larger ecosystem and you're missing out if you haven't tried Svelte yet! Nifty stuff.
 
 My preferred platform is [Netlify](https://www.netlify.com/). Real time saver that has tons of impressive features baked in, check them out if you haven't heard of them!
 
@@ -10,7 +10,7 @@ My preferred platform is [Netlify](https://www.netlify.com/). Real time saver th
 
 I participate in [Chingu](https://www.chingu.io/) projects on a regular basis to collaborate with people who have the same goals of learning more about web development and furthering their skills. This has pushed and greatly accelerated my learning, and has given me new perspectives on team productivity, as well as an idea on how others learn, work, and write their code. 
 
-I've partaken four 6-week voyages so far. The ones worth a mention:  
+I've partaken four 6-week voyages so far, ones worth a mention:  
 [**📃 Toucan Recipes**](https://toucanrecipes.netlify.app/) [(v20-toucans-team-01)](https://github.com/chingu-voyages/v20-toucans-team-01)  - A JAM stack recipe app using React, Gatsby, and Chakra-UI.  
 [**☕ Bear Coffee**](https://bearcoffee.netlify.app/) [(v24-bears-team-05)](https://github.com/chingu-voyages/v24-bears-team-05)  - A JAM stack free e-commerce demo using Svelte, Elder.js, and Stripe.
 
