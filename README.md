@@ -4,7 +4,7 @@ I'm a front end web developer that has a passion for building applications in th
 
 I can't help loving the modern web and its amazingly productive tooling. Some specifics of my stack, I've used React + Gatsby, and more recently Svelte + Elder.js / Svelte Kit. Really hoping that Svelte takes off because all it lacks is a larger ecosystem and you're missing out if you haven't tried Svelte yet! Nifty stuff.
 
-My preferred platform is [Netlify](https://www.netlify.com/). Real time saver that has tons of impressive features baked in, check them out if you haven't heard of them!
+My preferred platform is [Netlify](https://www.netlify.com/). Real time saver that has tons of impressive features baked in, check them out if you haven't heard of them! (Plus, they're the definitive JAM stack platform) 
 
 ### Chingu Voyages & Web Development
 
