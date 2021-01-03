@@ -2,7 +2,7 @@
 
 I'm a front end web developer that has a passion for building applications in the JAM (JavaScript, APIs, Markup) stack. In particular, using Serverless tech and Node.js. I'm always learning more about JavaScript thanks to it.
 
-I love the modern web and its amazingly productive tooling. For some specifics of my stack I've used React + Gatsby, and more recently Svelte + Elder.js / Svelte Kit. Really hoping that Svelte takes off because all it lacks is a larger ecosystem and you're missing out if you haven't tried Svelte yet! Nifty stuff.
+I love the modern web and its amazingly productive tooling. For some specifics of my stack I've used React + Gatsby, and more recently Svelte + Elder.js / Sapper (soon to be Kit). Really hoping that Svelte takes off because all it lacks is a larger ecosystem and you're missing out if you haven't tried Svelte yet! Nifty stuff.
 
 My preferred platform is [Netlify](https://www.netlify.com/). Real time saver that has tons of impressive features baked in, check them out if you haven't heard of them! (Plus, they're the definitive JAM stack platform) 
 
