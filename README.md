@@ -6,7 +6,7 @@ I love the modern web and its amazingly productive tooling. For some specifics o
 
 (Though, if I'm being honest I'll still be a surprised Pikachu if it takes the frontend world by storm.)
 
-While I have no qualms with using my favorite database FaunaDB, with FQL and GraphQL, I do acknowledge that most of my efforts are spent in the frontend. Fauna just makes the database setup too quick. 
+While I'm perfectly happy to use favorite database FaunaDB with FQL and GraphQL, I do acknowledge that most of my efforts are spent in the frontend. Fauna just makes the database work go by too quick. 
 
 My preferred platform is [Netlify](https://www.netlify.com/). Real time saver that has tons of impressive features baked in, check them out if you haven't heard of them! Plus, they're the definitive JAM stack platform. As they say, keep on spreading the JAM! 
 
