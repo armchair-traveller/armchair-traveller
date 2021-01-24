@@ -1,6 +1,6 @@
 ### Hi there! I'm Fang🦁
 
-I'm a web developer that has a passion for building applications in the JAM (JavaScript, APIs, Markup) stack. In particular, using Serverless tech and Node.js. I'm always learning more about JavaScript in small part thanks to these.
+I'm a web developer that has a passion for building applications in the JAM (JavaScript, APIs, Markup) stack. In particular, using Serverless tech and Node.js. I'm always learning more about JavaScript in no small part thanks to these.
 
 I love the modern web and its amazingly productive tooling. For some specifics of my stack I've used React and Gatsby, so I've been in the React ecosystem, but have taken a great interest in Svelte. Sapper, Elder.js, Routify, you name it. I'm awaiting Svelte Kit especially since it'll integrate beautifully with my stack. Really hoping that Svelte takes off because all it lacks is a larger ecosystem and you're missing out if you haven't tried Svelte yet! Nifty stuff.
 
