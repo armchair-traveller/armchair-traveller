@@ -4,7 +4,7 @@ I'm a web developer that has a passion for building applications in the JAM (Jav
 
 I love the modern web and its amazingly productive tooling. 
 
-### Tech
+### Tech / Uses
 
 For some specifics of my stack I've used React and Gatsby, so I've been in the React ecosystem, but have taken a great interest in Svelte. Sapper, Elder.js, Routify, you name it. `await`ing Svelte Kit especially since it'll integrate beautifully with my stack.  Svelte does lack a larger ecosystem, but as any Svelte developer will tell you... The satisfaction from using it is off the charts. People are missing out. 
 
@@ -12,7 +12,7 @@ For some specifics of my stack I've used React and Gatsby, so I've been in the R
 
 My favorite database is FaunaDB and it is truly a pleasure to work with as Fauna Query Language is very flexible and GraphQL is so much fun... It's just that since Fauna makes database work go by so quick, I can only spend most of my time in the frontend. Literal suffering from success.
 
-My preferred platform is [Netlify](https://www.netlify.com/). Real time saver that has tons of impressive features baked in, check them out if you haven't heard of them! Plus, they're the definitive JAM stack platform. As they say, keep on spreading the JAM! 
+[Netlify](https://www.netlify.com/) is my platform of choice. Real time saver that has tons of impressive features baked in, give them a try if you're ready to be mind-blown 🤯 Plus, they're the definitive JAM stack platform. As they say, keep on spreading the JAM! 
 
 ### Chingu Voyages & Web Development
 
