@@ -10,7 +10,7 @@ For some specifics of my stack I've used React and Gatsby, so I've been in the R
 
 (Though, if I'm being honest I'll still be a surprised Pikachu if it takes the frontend world by storm.)
 
-While I'm perfectly happy to use favorite database FaunaDB with FQL and GraphQL, I do acknowledge that most of my efforts are spent in the frontend. Fauna just makes the database work go by too quick. 
+My favorite database is FaunaDB and it is truly a pleasure to work with as Fauna Query Language is very flexible and GraphQL is so much fun... It's just that since Fauna makes database work go by so quick, I can only spend most of my time in the frontend. Literal suffering from success.
 
 My preferred platform is [Netlify](https://www.netlify.com/). Real time saver that has tons of impressive features baked in, check them out if you haven't heard of them! Plus, they're the definitive JAM stack platform. As they say, keep on spreading the JAM! 
 
