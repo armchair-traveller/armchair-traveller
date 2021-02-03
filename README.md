@@ -6,11 +6,11 @@ I love the modern web and its amazingly productive tooling.
 
 ### Tech / Uses
 
-For some specifics of my stack I've used React and Gatsby, so I've been in the React ecosystem, but have taken a great interest in Svelte. Sapper, Elder.js, Routify, you name it. `await`ing Svelte Kit especially since it'll integrate beautifully with my stack.  Svelte does lack a larger ecosystem, but as any Svelte developer will tell you... The satisfaction from using it is off the charts. People are missing out. 
+For some specifics of my stack I've used React and [Gatsby](https://www.gatsbyjs.com/) (w/ the very robust [Chakra-UI](https://chakra-ui.com/)) so I've been in the React ecosystem, but have taken a great interest in [Svelte](https://svelte.dev/). [Sapper](https://sapper.svelte.dev/), [Elder.js](https://elderguide.com/tech/elderjs/), [Routify](https://routify.dev/), you name it. `await`ing [Svelte Kit](https://svelte.dev/blog/whats-the-deal-with-sveltekit) especially since it'll integrate beautifully with my stack.  Svelte does lack a larger ecosystem, but as any Svelte developer will tell you... The satisfaction from using it is off the charts. People are missing out. 
 
 (Though, if I'm being honest I'll still be a surprised Pikachu if it takes the frontend world by storm.)
 
-My favorite database is FaunaDB and it is truly a pleasure to work with as Fauna Query Language is very flexible and GraphQL is so much fun... It's just that since Fauna makes database work go by so quick, I can only spend most of my time in the frontend. Literal suffering from success.
+My favorite database is [FaunaDB](https://fauna.com/) and it is truly a pleasure to work with as Fauna Query Language is very flexible and [GraphQL](https://graphql.org/) is so much fun... It's just that since Fauna makes database work go by so quick, I can only spend most of my time in the frontend. Literal suffering from success.
 
 [Netlify](https://www.netlify.com/) is my platform of choice. Real time saver that has tons of impressive features baked in, give them a try if you're ready to be mind-blown 🤯 Plus, they're the definitive JAM stack platform. As they say, keep on spreading the JAM! 
 
