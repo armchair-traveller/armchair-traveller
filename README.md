@@ -1,6 +1,6 @@
 ### Hi there! I'm Fang🦁
 
-I'm a web developer that has a passion for building applications in the JAM (JavaScript, APIs, Markup) stack. In particular, using [Serverless](https://serverless.css-tricks.com/about/) tech and Node.js. I'm always learning more about JavaScript in no small part thanks to these.
+I'm a web developer that has a passion for building applications in the [JAM](https://www.netlify.com/jamstack/) (JavaScript, APIs, Markup) stack. In particular, using [Serverless](https://serverless.css-tricks.com/about/) tech and Node.js. I'm always learning more about JavaScript in no small part thanks to these.
 
 I love the modern web and its amazingly productive tooling. 
 
