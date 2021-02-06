@@ -1,6 +1,6 @@
 ### Hi there! I'm Fang🦁
 
-I'm a web developer that has a passion for building applications in the [JAM](https://www.netlify.com/jamstack/) (JavaScript, APIs, Markup) stack. My area of focus is Svelte and [Serverless](https://serverless.css-tricks.com/about/) tech (Node.js, Fauna). I'm always learning more about JavaScript in no small part thanks to these.
+I'm a web developer that has a passion for building applications in the [JAM](https://www.netlify.com/jamstack/) (JavaScript, APIs, Markup) stack. My area of focus is [Svelte](https://svelte.dev/) and [Serverless](https://serverless.css-tricks.com/about/) tech (Node.js, Fauna). I'm always learning more about JavaScript in no small part thanks to these.
 
 I love the modern web and its amazingly productive tooling. 
 
@@ -8,7 +8,7 @@ I love the modern web and its amazingly productive tooling.
 
 I proactively seek technologies that excite me, whether through how they solve my pain points, increase my productivity, or improve the team development experience. Even if a particular technology is not exciting to me, I make sure to learn about things that are gaining momentum in the web development world so I can keep up (and in the off-chance that they have a perfect use case for what I do).
 
-To that end I've used React and [Gatsby](https://www.gatsbyjs.com/) (w/ the very robust [Chakra-UI](https://chakra-ui.com/)) so I've been in the React ecosystem, but have taken a great interest in [Svelte](https://svelte.dev/). [Sapper](https://sapper.svelte.dev/), [Elder.js](https://elderguide.com/tech/elderjs/), [Routify](https://routify.dev/), you name it. `await`ing [Svelte Kit](https://svelte.dev/blog/whats-the-deal-with-sveltekit) especially since it'll integrate beautifully with my stack.  Svelte does lack a larger ecosystem, but as any Svelte developer will tell you... The satisfaction from using it is off the charts. People are missing out. 
+To that end I've used React and [Gatsby](https://www.gatsbyjs.com/) (w/ the very robust [Chakra-UI](https://chakra-ui.com/)) so I've been in the React ecosystem, but have taken a great interest in Svelte. [Sapper](https://sapper.svelte.dev/), [Elder.js](https://elderguide.com/tech/elderjs/), [Routify](https://routify.dev/), you name it. `await`ing [Svelte Kit](https://svelte.dev/blog/whats-the-deal-with-sveltekit) especially since it'll integrate beautifully with my stack.  Svelte does lack a larger ecosystem, but as any Svelte developer will tell you... The satisfaction from using it is off the charts. People are missing out. 
 
 (Though, if I'm being honest I'll still be a surprised Pikachu if it takes the frontend world by storm.)
 
