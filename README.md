@@ -12,7 +12,7 @@ To that end I've used React and [Gatsby](https://www.gatsbyjs.com/) (w/ the very
 
 (Though, if I'm being honest I'll still be a surprised Pikachu if it takes the frontend world by storm.)
 
-My favorite database is [FaunaDB](https://fauna.com/) and it is truly a pleasure to work with as Fauna Query Language is very flexible and [GraphQL](https://graphql.org/) is so much fun... It's just that since Fauna makes database work go by so quick, I can only spend most of my time in the frontend. Literal suffering from success.
+My favorite database is [FaunaDB](https://fauna.com/) as it is truly a pleasure to work with. Fauna Query Language is very flexible and [GraphQL](https://graphql.org/) is so much fun... It's just that since Fauna makes database work go by so quick, I can only spend most of my time in the frontend. Literal suffering from success.
 
 You can tell that the Jamstack integrates heavily with SSGs, and that's why my framework choices align with that notion. It should then be no surprise to anyone that [Netlify](https://www.netlify.com/) is my platform of choice. Real time saver that has tons of impressive features baked in, give them a try if you're ready to be mind-blown 🤯 Plus, they're the definitive Jamstack platform. As they say, keep on spreading the jam!
 
