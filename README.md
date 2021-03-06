@@ -8,9 +8,7 @@ I love the modern web and its amazingly productive tooling.
 
 I proactively seek technologies that excite me, whether through how they solve my pain points, increase my productivity, or improve the team development experience. Even if a particular technology is not exciting to me, I make sure to learn about things that are gaining momentum in the web development world so I can keep up (and in the off-chance that they have a perfect use case for what I do).
 
-To that end I've used React and [Gatsby](https://www.gatsbyjs.com/) (w/ the very robust [Chakra-UI](https://chakra-ui.com/)) so I've been in the React ecosystem, but have taken a great interest in Svelte. [Sapper](https://sapper.svelte.dev/), [Elder.js](https://elderguide.com/tech/elderjs/), [Routify](https://routify.dev/), you name it. `await`ing [Svelte Kit](https://svelte.dev/blog/whats-the-deal-with-sveltekit) especially since it'll integrate beautifully with my stack.  Svelte does lack a larger ecosystem, but as any Svelte developer will tell you... The satisfaction from using it is off the charts. People are missing out. 
-
-(Though, if I'm being honest the Svelte ecosystem needs so much more growth.)
+To that end I've used React and [Gatsby](https://www.gatsbyjs.com/) (w/ the very robust [Chakra-UI](https://chakra-ui.com/)) so I've been in the React ecosystem, but have moved onto Svelte. [Sapper](https://sapper.svelte.dev/), [Elder.js](https://elderguide.com/tech/elderjs/), [Routify](https://routify.dev/), you name it. `await`ing [Svelte Kit](https://svelte.dev/blog/whats-the-deal-with-sveltekit) especially since it'll integrate beautifully with my stack.  Svelte does lack a larger ecosystem, but as any Svelte developer will tell you... The satisfaction from using it is off the charts. People are missing out. 
 
 My favorite database is [FaunaDB](https://fauna.com/) as it is truly a pleasure to work with. Fauna Query Language is very flexible and [GraphQL](https://graphql.org/) is so much fun... It's just that since Fauna makes database work go by so quick, I can only spend most of my time in the frontend. Literal suffering from success.
 
