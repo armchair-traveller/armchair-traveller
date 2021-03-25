@@ -6,7 +6,7 @@ I love the modern web and its amazingly productive tooling.
 
 ### Tech / Uses
 
-I proactively seek technologies that excite me, whether through how they solve my pain points, better my workflow, or improve team productivity. Even if a particular technology is not exciting to me, I make sure to learn about things that are gaining momentum in the web development world so I can keep up (and in the off-chance that they have a perfect use case for what I do).
+I proactively seek technologies that excite me, whether through how they solve my pain points, better my workflow, or improve team productivity. Even if a particular technology is not exciting to me, I make sure to learn about things that are gaining momentum in the web development world so that I can do my work as a developer better (and in the off-chance that they have a perfect use case for what I do).
 
 <details>
 <summary>Specifics</summary>
