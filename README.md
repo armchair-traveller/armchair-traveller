@@ -10,11 +10,20 @@ I proactively seek technologies that excite me, whether through how they solve m
 
 <details>
 <summary>Specifics</summary>
-To that end I've used React and [Gatsby](https://www.gatsbyjs.com/) (w/ the very robust [Chakra-UI](https://chakra-ui.com/)) so I've been in the React ecosystem, but have moved onto Svelte. [Sapper](https://sapper.svelte.dev/), [Elder.js](https://elderguide.com/tech/elderjs/), [Routify](https://routify.dev/), you name it. Currently using [Svelte Kit](https://svelte.dev/blog/whats-the-deal-with-sveltekit).  Svelte does lack a larger ecosystem, but as any Svelte developer will tell you... The satisfaction from using it is off the charts. People are missing out.
+I've built projects in many stacks. Currently... 
 
 My favorite database is [FaunaDB](https://fauna.com/) as it is truly a pleasure to work with in a serverless context. Fauna Query Language is very flexible and [GraphQL](https://graphql.org/) is so much fun... It's just that since Fauna makes database work go by so quick, I can only spend most of my time in the frontend. Literal suffering from success.
 
 [Netlify](https://www.netlify.com/) is my platform of choice. Real time saver that has tons of impressive features baked in, give them a try if you're ready to be mind-blown 🤯 Plus, they're the definitive Jamstack platform. As they say, keep on spreading the jam!
+
+
+These are some that I no longer actively peruse (chronological order):
+<ol>
+<li>React</li>
+<li><a href="https://www.gatsbyjs.com/">Gatsby</a>
+<li>(w/ the very robust [Chakra-UI](https://chakra-ui.com/)) so I've been in the React ecosystem, but have moved onto Svelte. [Sapper](https://sapper.svelte.dev/), [Elder.js](https://elderguide.com/tech/elderjs/), [Routify](https://routify.dev/), you name it. Currently using [Svelte Kit](https://svelte.dev/blog/whats-the-deal-with-sveltekit).  Svelte does lack a larger ecosystem, but as any Svelte developer will tell you... The satisfaction from using it is off the charts. People are missing out.
+</li>
+</ol>
 </details>
 
 ### Chingu Voyages & Web Development
