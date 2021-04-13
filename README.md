@@ -64,8 +64,8 @@ I challenge my skills through [Chingu](https://www.chingu.io/), which allows me 
 I've partaken six 6-week voyages so far, here're some of them:  
 [**🚀 DShift**](https://dshift.netlify.app/) [v28-svelte-team-09](https://github.com/chingu-voyages/v28-svelte-team-09) — A blazing fast shift management web app sporting a surprisingly simple interface. Built w/ Svelte Kit & Tailwind!  
 [**🎼 Bear Class**](https://bearclass.netlify.app/) [v26-bears-team-07](https://github.com/chingu-voyages/v26-bears-team-07) — A Google Classroom clone using Svelte, Routify, and GraphQL w/ FaunaDB.  
-[**📃 Toucan Recipes**](https://toucanrecipes.netlify.app/) [(v20-toucans-team-01)](https://github.com/chingu-voyages/v20-toucans-team-01)  — A Jamstack recipe app using React, Gatsby, and Chakra-UI.  
-[**☕ Bear Coffee**](https://bearcoffee.netlify.app/) [(v24-bears-team-05)](https://github.com/chingu-voyages/v24-bears-team-05)  — A free e-commerce demo using Svelte, Elder.js, and Stripe.
+[**📃 Toucan Recipes**](https://toucanrecipes.netlify.app/) [v20-toucans-team-01](https://github.com/chingu-voyages/v20-toucans-team-01)  — A Jamstack recipe app using React, Gatsby, and Chakra-UI.  
+[**☕ Bear Coffee**](https://bearcoffee.netlify.app/) [v24-bears-team-05](https://github.com/chingu-voyages/v24-bears-team-05)  — A free e-commerce demo using Svelte, Elder.js, and Stripe.
 
 <p align="center">
   <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armchair-traveller&layout=compact&hide=makefile&theme=nord" alt="Most used languages" />
