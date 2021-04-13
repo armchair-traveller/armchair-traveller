@@ -36,7 +36,7 @@ I proactively seek technologies that excite me, whether through how they solve m
     As they say, keep on spreading the jam!
   </p>
 
-  These are some that I no longer actively peruse (chronological order) because
+  These are some that I no longer actively peruse, in chronological order, because
   I'm using other tools that serve similar purposes (but I still love them!):
 
   <ol>
