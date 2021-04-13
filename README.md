@@ -9,22 +9,53 @@ I love the modern web and its amazingly productive tooling.
 I proactively seek technologies that excite me, whether through how they solve my pain points, better my workflow, or improve team productivity. Even if a particular technology is not exciting to me, I make sure to learn about things that are gaining momentum in the web development world so that I can do my work as a developer better (and in the off-chance that they have a perfect use case for what I do).
 
 <details>
-<summary>Specifics</summary>
-I've built projects in many stacks. Currently... 
+  <summary><strong>Specifics</strong></summary>
+  I've built projects in many stacks. <strong>Currently</strong>...
 
-My favorite database is [FaunaDB](https://fauna.com/) as it is truly a pleasure to work with in a serverless context. Fauna Query Language is very flexible and [GraphQL](https://graphql.org/) is so much fun... It's just that since Fauna makes database work go by so quick, I can only spend most of my time in the frontend. Literal suffering from success.
+  <p>
+    As aforementioned, I heavily use Svelte, and while it does lack the maturity of a larger
+    ecosystem any Svelte developer will tell you that the satisfaction from
+    using it is off the charts. People are missing out. I utilize <a
+      href="https://kit.svelte.dev/">Svelte Kit</a
+    > as my main web app framework because of its powerful modern workflow. Its concept 
+    of adapters allows it to be a static site generator and/or full stack serverless
+    framework depending on the project's needs.
+  </p>
+  <p>
+    My favorite database is <a href="https://fauna.com/">FaunaDB</a> as it is
+    truly a pleasure to work with in a serverless context. Fauna Query Language
+    is very flexible and
+    <a href="https://graphql.org/">GraphQL</a> is so much fun... It's just that since
+    Fauna makes database work go by so quick, I can only spend most of my time in
+    the frontend. Literal suffering from success.
+  </p>
+  <p>
+    <a href="https://www.netlify.com/">Netlify</a> is my platform of choice. Real
+    time saver that has tons of impressive features baked in, give them a try if
+    you're ready to be mind-blown 🤯 Plus, they're the definitive Jamstack platform.
+    As they say, keep on spreading the jam!
+  </p>
 
-[Netlify](https://www.netlify.com/) is my platform of choice. Real time saver that has tons of impressive features baked in, give them a try if you're ready to be mind-blown 🤯 Plus, they're the definitive Jamstack platform. As they say, keep on spreading the jam!
+  These are some that I no longer actively peruse (chronological order) because
+  I'm using other tools that serve similar purposes (but I still love them!):
 
-
-These are some that I no longer actively peruse (chronological order):
-<ol>
-<li>React</li>
-<li><a href="https://www.gatsbyjs.com/">Gatsby</a>
-<li>(w/ the very robust [Chakra-UI](https://chakra-ui.com/)) so I've been in the React ecosystem, but have moved onto Svelte. [Sapper](https://sapper.svelte.dev/), [Elder.js](https://elderguide.com/tech/elderjs/), [Routify](https://routify.dev/), you name it. Currently using [Svelte Kit](https://svelte.dev/blog/whats-the-deal-with-sveltekit).  Svelte does lack a larger ecosystem, but as any Svelte developer will tell you... The satisfaction from using it is off the charts. People are missing out.
-</li>
-</ol>
+  <ol>
+    <li>
+      React & <a href="https://www.gatsbyjs.com/">Gatsby</a> +
+      <a href="https://chakra-ui.com/">Chakra-UI</a> — I've been in the React ecosystem,
+      but have moved onto Svelte & Svelte Kit + TailwindCSS as my main frontend/fullstack
+      tool as I feel it's much easier to reason with.
+    </li>
+    <li>
+      <a href="https://sapper.svelte.dev/">Sapper</a>,
+      <a href="https://elderguide.com/tech/elderjs/">Elder.js</a>,
+      <a href="https://routify.dev/">Routify</a>. As mentioned, I currently
+      build most everything in Svelte Kit due to its usage of an unbundler
+      (Vite).
+    </li>
+  </ol>
 </details>
+
 
 ### Chingu Voyages & Web Development
 
