@@ -61,7 +61,7 @@ I proactively seek technologies that excite me, whether through how they solve m
 
 I challenge my skills through [Chingu](https://www.chingu.io/), which allows me to collaborate with people who have the same goals of learning more about web development and furthering their skills through building projects. This has pushed and greatly accelerated my learning, and has given me new perspectives on team productivity as well as an idea on how others learn, work, and write their code.
 
-I've partaken five 6-week voyages so far, here're some of them:  
+I've partaken six 6-week voyages so far, here're some of them:  
 [**🚀 DShift**](https://dshift.netlify.app/) [v28-svelte-team-09](https://github.com/chingu-voyages/v28-svelte-team-09) — A blazing fast shift management web app sporting a surprisingly simple interface. Built w/ Svelte Kit & Tailwind!  
 [**🎼 Bear Class**](https://bearclass.netlify.app/) [v26-bears-team-07](https://github.com/chingu-voyages/v26-bears-team-07) — A Google Classroom clone using Svelte, Routify, and GraphQL w/ FaunaDB.  
 [**📃 Toucan Recipes**](https://toucanrecipes.netlify.app/) [(v20-toucans-team-01)](https://github.com/chingu-voyages/v20-toucans-team-01)  — A Jamstack recipe app using React, Gatsby, and Chakra-UI.  
