@@ -1,8 +1,6 @@
 ### Hi there! I'm Fang🦁
 
-I'm a web developer that has a fire lit inside for building applications in the [Jamstack](https://jamstack.org/) (JavaScript, APIs, Markup). My hunger for [Svelte](https://svelte.dev/) and [Serverless](https://serverless.css-tricks.com/about/) shows me an unbeatable view on JavaScript that makes me give it all I've got, and never any less.
-
-I love the modern web and its amazingly productive tooling. They say we stand on the shoulders of giants but they meant what was theirs will soon be ours, to build something greater. 
+I'm a web developer that has a fire lit inside for building applications in the [Jamstack](https://jamstack.org/) (JavaScript, APIs, Markup), so you could say I know a thing or two about JavaScript. To satiate my hunger for [Svelte](https://svelte.dev/) and [Serverless](https://serverless.css-tricks.com/about/) I give modern web development all I've got, and never any less.
 
 ### Tech / Uses
 
