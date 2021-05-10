@@ -28,10 +28,7 @@ I proactively seek technologies that excite me, whether through how they solve m
     the frontend. Literal suffering from success.
   </p>
   <p>
-    <a href="https://www.netlify.com/">Netlify</a> is my platform of choice. Real
-    time saver that has tons of impressive features baked in, give them a try if
-    you're ready to be mind-blown 🤯 Plus, they're the definitive Jamstack platform.
-    As they say, keep on spreading the jam!
+    I mainly deploy my Jamstack projects through <a href="https://www.netlify.com/">Netlify</a> or <a href="https://pages.cloudflare.com/">Cloudflare Pages</a>. 
   </p>
 
   These are some that I no longer actively peruse, in chronological order, because
