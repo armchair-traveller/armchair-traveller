@@ -4,7 +4,7 @@ I'm a web developer that has a fire lit inside for building applications in the 
 
 ### Tech / Uses
 
-I proactively seek technologies that excite me, whether through how they solve my pain points and better my workflow. Some of that propogates to teams I work with, as a bonus. Even if a particular technology is not exciting to me, I make sure to learn about things that are gaining momentum in the web development world so that I can do my work as a developer better (and in the off-chance that they have a perfect use case for what I do).
+I proactively seek technologies that excite me, whether through how they solve my pain points or better my workflow. As a result, some of that propogates to teams I work with. Even if a particular technology is not exciting to me, I make sure to learn about things that are gaining momentum in the web development world so that I can do my work as a developer better (and in the off-chance that they have a perfect use case for what I do).
 
 <details>
   <summary><strong>Specifics</strong></summary>
