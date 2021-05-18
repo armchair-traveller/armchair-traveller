@@ -52,7 +52,7 @@ I proactively seek technologies that excite me, whether through how they solve m
 </details>
 
 
-### Chingu Voyages & Web Development
+### Web Development
 
 I challenge my skills through [Chingu](https://www.chingu.io/), which allows me to collaborate with people who have the same goals of learning more about web development and furthering their skills through building projects. This has pushed and greatly accelerated my learning, and has given me new perspectives on team productivity as well as an idea on how others learn, work, and write their code.
 
