@@ -30,7 +30,7 @@ I proactively seek technologies that excite me, whether through how they solve m
     the frontend. Literal suffering from success.
   </p>
   <p>
-    I mainly deploy my Jamstack projects through <a href="https://www.netlify.com/">Netlify</a> or <a href="https://pages.cloudflare.com/">Cloudflare Pages</a>. 
+    I mainly deploy my Jamstack projects through <a href="https://www.netlify.com/">Netlify</a> or <a href="https://pages.cloudflare.com/">Cloudflare Pages</a>. For backend oriented projects I use Cloudflare Workers which operates on V8 isolates (as opposed to just Node).
   </p>
 
   These are some that I no longer actively peruse, in chronological order, because
