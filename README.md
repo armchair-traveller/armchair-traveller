@@ -13,7 +13,7 @@ I proactively seek technologies that excite me, whether through how they solve m
   I've built projects in many stacks. <strong>Currently</strong>...
 
   <p>
-    As aforementioned, I heavily use Svelte, and while it does lack the maturity of a larger
+    As aforementioned I heavily use Svelte, and while it does lack the maturity of a larger
     ecosystem any Svelte developer will tell you that the satisfaction from
     using it is off the charts. People are missing out. I utilize <a
       href="https://kit.svelte.dev/">Svelte Kit</a
