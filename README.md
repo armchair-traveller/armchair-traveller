@@ -56,7 +56,7 @@ I proactively seek technologies that excite me, whether through how they solve m
 
 ### Web Development
 
-I challenge my skills through [Chingu.io](https://www.chingu.io/), which allows me to collaborate with people who have the same goals of learning more about web development and furthering their skills through building projects. This has pushed and greatly accelerated my learning, and has given me new perspectives on team productivity as well as an idea on how others learn, work, and write their code.
+I challenge my skills through [Chingu.io](https://www.chingu.io/), which allows me to collaborate with people who have the same goals of learning more about web development and furthering their skills through building projects. It's not what I currently do, but it has pushed and greatly accelerated my learning, and has given me new perspectives on team productivity as well as an idea on how others learn, work, and write their code. A big part of my growth.
 
 I've partaken six 6-week voyages so far, here're some of them (partially pinned):  
 [**🚀 DShift**](https://dshift.netlify.app/) [v28-svelte-team-09](https://github.com/chingu-voyages/v28-svelte-team-09) — A blazing fast shift management web app sporting a surprisingly simple interface. Built w/ Svelte Kit & Tailwind.  
