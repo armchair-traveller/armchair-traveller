@@ -6,7 +6,7 @@ In my spare time I tend to mess around with playwright and dabble with design.
 
 ### Tech / Uses
 
-I proactively seek technologies that excite me, whether through how they solve my pain points or better my workflow. That propogates to teams I work with. I make sure to learn about things that are gaining momentum in the web development world so that I can do my work as a developer better.
+I proactively seek technologies that excite me, whether through how they solve my pain points or better my workflow. That propogates to teams I work with. I make sure to learn about things that are gaining momentum in the web development world so that I can do my work as a developer better. Why? I just want to deliver more in less time.
 
 <details>
   <summary><strong>Specifics</strong></summary>
