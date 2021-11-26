@@ -2,11 +2,11 @@
 
 I'm a web developer that has a fire lit inside for building fullstack applications in the [**Jamstack**](https://jamstack.org/) (JavaScript, APIs, Markup). I know a thing or two about JavaScript. I use [Svelte](https://svelte.dev/) and [Serverless](https://serverless.css-tricks.com/about/) because I'm all about that DX. They bring a refreshing simplicity to full stack development, because we all want to build more in less time.
 
-In my spare time I tend to mess around with playwright and dabble with design. 
+In my spare time I tend to dabble with design. 
 
 ### Tech / Uses
 
-I proactively seek technologies that excite me, whether through how they solve my pain points or better my workflow. That propogates to teams I work with. I make sure to learn about things that are gaining momentum in the web development world so that I can do my work as a developer better. Why? I just want to deliver more in less time.
+I proactively seek technologies that excite me, particularly ones that allow me to ship faster, solve my pain points, or better my workflow. That propogates to teams I work with. I make sure to learn about things that are gaining momentum in the web development world so that I can do my work as a developer better.
 
 <details>
   <summary><strong>Specifics</strong></summary>
