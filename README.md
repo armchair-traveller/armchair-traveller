@@ -22,10 +22,10 @@ I proactively seek technologies that excite me, particularly ones that allow me 
     framework depending on the project's needs.
   </p>
   <p>
-    My favorite database is <a href="https://fauna.com/">FaunaDB</a> as it is
+    My favorite database is <a href="https://fauna.com/">Fauna</a> as it is
     truly a pleasure to work with in a serverless context. Fauna Query Language
-    is very flexible and
-    <a href="https://graphql.org/">GraphQL</a> is so much fun... It's just that since
+    is very flexible. Although a bit verbose with its procedural nature, but that's why the
+    <a href="https://graphql.org/">GraphQL</a> API is so much fun... It's just that since
     Fauna makes database work go by so quick, I can only spend most of my time in
     the frontend. Literal suffering from success.
   </p>
