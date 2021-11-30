@@ -33,8 +33,7 @@ I proactively seek technologies that excite me, particularly ones that allow me 
     I mainly deploy my Jamstack projects through <a href="https://www.netlify.com/">Netlify</a> or <a href="https://pages.cloudflare.com/">Cloudflare Pages</a>. For backend oriented projects I use Cloudflare Workers which operates on V8 isolates (although I just use Node if no online functionality is required).
   </p>
 
-  These are some that I no longer actively peruse, in chronological order, because
-  I'm using other tools that serve similar purposes (but I still love them!):
+  These are some that I no longer actively peruse, has-beens essentially (though I don't dislike them), in chronological order:
 
   <ol>
     <li>
