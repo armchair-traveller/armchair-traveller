@@ -10,7 +10,7 @@ I proactively seek technologies that excite me, particularly ones that allow me 
 
 <details>
   <summary><strong>Specifics</strong></summary>
-  I've like to employ a variety of stacks and learn whatever I need. <strong>Currently</strong>...
+  I like to employ a large array of tools and learn whatever I need.
 
   <p>
     As aforementioned I heavily use Svelte, and while it does lack the maturity of a larger
