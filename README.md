@@ -2,7 +2,7 @@
 
 I'm a web developer that has a fire lit inside for building fullstack applications in the [**Jamstack**](https://jamstack.org/) (JavaScript, APIs, Markup). I know a thing or two about JavaScript. I use [Svelte](https://svelte.dev/) and [Serverless](https://serverless.css-tricks.com/about/) because I'm all about that DX. They bring a refreshing simplicity to full stack development, because we all want to build more in less time.
 
-In my spare time I tend to dabble with design. 
+In my spare time, I also enjoy exploring my creativity through design projects.
 
 ### Tech / Uses
 
