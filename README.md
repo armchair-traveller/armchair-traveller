@@ -68,5 +68,5 @@ I've partaken seven 6-week voyages so far
 
 <p align="center">
   <img height="140" src="https://github-readme-stats-armchair-traveller.vercel.app/api/top-langs/?username=armchair-traveller&layout=compact&hide=makefile&theme=nord" alt="Most used languages" />
-  <img height="140" src="https://github-readme-stats-armchair-traveller.vercel.app/api?username=armchair-traveller&show_icons=true&count_private=true&hide=stars,prs&theme=nord" alt="GitHub stats" />
+  <img height="140" src="https://github-readme-stats-armchair-traveller.vercel.app/api?username=armchair-traveller&show_icons=true&count_private=true&hide=stars,prs&theme=nord" alt="My massively large and impressive...GitHub Stats" />
 </p>
