@@ -55,7 +55,7 @@ I proactively seek technologies that excite me, particularly ones that allow me 
 
 ### Web Development
 
-I challenge my skills through [Chingu.io](https://www.chingu.io/), which allows me to collaborate with people who have the same goals of learning more about web development and furthering their skills through building projects. We do things in the Agile *mythology*. It has pushed and greatly accelerated my learning, and has given me new perspectives on team productivity as well as an idea on how others learn, work, and write their code. A big part of my growth.
+I challenge my skills through [Chingu.io](https://www.chingu.io/), which allows me to collaborate with people who have the same goals of learning more about web development and furthering their skills through building projects. We do things in the Agile *mythology*. It has pushed and greatly accelerated my learning, and has given me new perspectives on team productivity as well as an idea on how others learn, work, and write their code. A big part of my growth. Well, besides all the other projects I've notched under NDA.
 
 I've partaken seven 6-week voyages so far
 <!--
