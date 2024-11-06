@@ -1,4 +1,4 @@
-### Hi there! I'm Fang🦁
+## Hi there! I'm Fang🦁
 
 ### And I haven't met a team that wasn't satisfied with my work
 
