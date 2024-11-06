@@ -2,13 +2,15 @@
 
 ## I haven't met a team that wasn't satisfied with my work
 
-And that's because it's backed by a comprehensive background in front-end development: from building foundational component primitives and design systems to maintaining complex codebases. I’ve crafted landing pages from scratch, transformed polished designs into high-performance web apps, and architected scalable frontend solutions. Beyond the UI, I’ve also tackled backend tasks—deploying serverless applications, engineering payment systems, and bridging design with backend seamlessly. Ready to bring this blend of creativity and technical precision to new challenges.
+And that's because it's backed by a comprehensive background in front-end development: from building foundational component primitives and design systems to maintaining complex codebases. I’ve crafted landing pages from scratch, transformed polished designs into high-performance web apps, and architected scalable frontend solutions. Beyond the UI, I’ve also tackled backend tasks—deploying serverless applications, engineering payment systems, and bridging design with backend seamlessly.
+
+My secret? I'm always ready to bring this blend of creativity and technical precision to new challenges.
 
 In my spare time, I also enjoy exploring my creativity through design projects.
 
 ### Tech / Uses
 
-I proactively seek technologies that excite me, particularly ones that allow me to ship faster, solve my pain points, or better my workflow. That propogates to teams I work with. I make sure to learn about things that are gaining momentum in the web development world so that I can do my work as an engineer better.
+I proactively seek technologies that excite me, particularly ones that allow me to ship faster, solve my pain points, or perfect my workflow. That propogates to every single team I work with. I make sure to learn all there is that's gaining momentum in the web development world. Because that's how I do my work as an engineer, better!
 
 
 ### Web Development
