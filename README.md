@@ -2,7 +2,7 @@
 
 ## I haven't met a team that wasn't satisfied with my work
 
-And that's because it's backed by a comprehensive background in front-end development: from building foundational component primitives and design systems to maintaining complex codebases. I’ve crafted landing pages from scratch, transformed polished designs into high-performance web apps, and architected scalable frontend solutions. Beyond the UI, I’ve also tackled backend tasks—deploying serverless applications, engineering payment systems, and bridging design with backend seamlessly. Ready to bring this blend of creativity and technical precision to new challenges."
+And that's because it's backed by a comprehensive background in front-end development: from building foundational component primitives and design systems to maintaining complex codebases. I’ve crafted landing pages from scratch, transformed polished designs into high-performance web apps, and architected scalable frontend solutions. Beyond the UI, I’ve also tackled backend tasks—deploying serverless applications, engineering payment systems, and bridging design with backend seamlessly. Ready to bring this blend of creativity and technical precision to new challenges.
 
 In my spare time, I also enjoy exploring my creativity through design projects.
 
