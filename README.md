@@ -4,7 +4,7 @@
 
 That's because it's backed by a comprehensive background in front-end development: from building foundational component primitives and design systems to maintaining complex codebases. I’ve crafted landing pages from scratch, transformed polished designs into high-performance web apps, and architected scalable frontends for tens of thousands of users. Beyond the UI, I’ve also tackled backend tasks—deploying serverless applications, engineering payment systems, and bridging design with backend seamlessly.
 
-My secret? I'm always ready to bring this blend of creativity and technical precision to new challenges. Design? Development? Doesn't matter, if you want something done right, do it yourself. 
+I'm always ready to bring this blend of creativity and technical precision to new challenges. Design? Development? Doesn't matter, if you want something done right, do it yourself. 
 
 ### Tech / Uses
 
