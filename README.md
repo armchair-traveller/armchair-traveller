@@ -1,15 +1,24 @@
 ## Hi there! I'm Fang🦁
 
-### I take pride in delivering work that leaves teams happy and projects thriving.
+### Serial builder.
 
-That's because it's backed by a comprehensive background in front-end development: from building foundational component primitives and design systems to maintaining complex codebases. I’ve crafted landing pages from scratch, transformed polished designs into high-performance web apps, and architected scalable frontends for tens of thousands of users. Beyond the UI, I’ve also tackled backend tasks—deploying serverless applications, engineering payment systems, and bridging design with backend seamlessly.
+Sometimes, I'm a bridge.
 
-I'm always ready to bring this blend of creativity and technical precision to new challenges. Design? Development? Doesn't matter, if you want something done right, do it yourself. 
+A non-exhaustive list of what I build: landing pages, web apps, data visualization, APIs, component libraries, primitives, design systems, screenshot-driven design, copywriting, code architecture, payment systems.
+
+I love front. back. design. marketing. business. Sure, I lean frontend, but in the end, all about product. Why pick just one?
+
+I have to build. I can’t stop. Gotta go fast.
+
+(Also, I’m way too hungry to finish writing this, but thanks for reading. Have a good one.)
 
 ### Tech / Uses
 
-I proactively seek technologies that excite me, particularly ones that allow me to ship faster, solve my pain points, or perfect my workflow. That propogates to every single team I work with. I make sure to learn all there is that's gaining momentum in the web development world. Because that's how I do my work as an engineer, better!
+I live in VSCode / Figma.
 
+Modern scalable, architectures. Good teams use good tools. 
+
+Better tech excites me. Ship faster. Solve pain points. That propogates to every single team I work with. Because that's how I do my work, better!
 
 <p align="center">
   <img height="140" src="https://github-readme-stats-armchair-traveller.vercel.app/api/top-langs/?username=armchair-traveller&layout=compact&hide=makefile&theme=nord" alt="Most used languages" />
