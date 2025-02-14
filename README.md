@@ -1,14 +1,14 @@
 ## Hi there! I'm Fang🦁
 
-### Serial builder.
+### Builder.
 
 Sometimes, I'm a bridge.
 
-A non-exhaustive list of what I build: landing pages, web apps, data visualization, APIs, component libraries, primitives, design systems, screenshot-driven design, copywriting, code architecture, payment systems.
+A non-exhaustive list of what I do: landing pages, web apps, data visualization, APIs, component libraries, primitives, design systems, screenshot-driven design, copywriting, code architecture, payment systems.
 
-I love front. back. design. marketing. business. Sure, I lean frontend, but in the end, all about product. Why pick just one?
+I love front. back. design. marketing. business. Sure, I lean frontend, but in the end, all about solving problems. That's really all a builder does.
 
-I have to build. I can’t stop. Gotta go fast.
+Building scratches my itch. I can't stop. Gotta build more. 
 
 (Also, I’m way too hungry to finish writing this, but thanks for reading. Have a good one.)
 
