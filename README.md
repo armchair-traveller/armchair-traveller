@@ -6,7 +6,7 @@ A non-exhaustive list of what I do: landing pages, web apps, data visualization,
 
 I love front. back. design. marketing. product. I lean frontend, but solving problems is above all.
 
-Above all, I love building that scratches an itch.
+That, and I love building anything that scratches an itch.
 
 ### Tech / Uses
 
