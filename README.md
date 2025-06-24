@@ -6,9 +6,7 @@ A non-exhaustive list of what I do: landing pages, web apps, data visualization,
 
 I love front. back. design. marketing. business. Sure, I lean frontend, but in the end, all about solving problems. That's really all a builder does.
 
-Building scratches my itch. I can't stop. Gotta build more. 
-
-(Also, I’m way too hungry to finish writing this, but thanks for reading. Have a good one.)
+Above all, I love building that scratches an itch.
 
 ### Tech / Uses
 
