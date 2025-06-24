@@ -4,7 +4,7 @@
 
 A non-exhaustive list of what I do: landing pages, web apps, data visualization, APIs, component libraries, primitives, design systems, screenshot-driven design, copywriting, code architecture, payment systems.
 
-I love front. back. design. marketing. business. Sure, I lean frontend, but in the end, all about solving problems. That's really all a builder does.
+I love front. back. design. marketing. business. Sure, I lean frontend, but in the end, all about solving problems.
 
 Above all, I love building that scratches an itch.
 
