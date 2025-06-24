@@ -2,7 +2,7 @@
 
 ### Building
 
-A non-exhaustive list of what I do: landing pages, web apps, data visualization, APIs, component libraries, primitives, design systems, screenshot-driven design, copywriting, architecture, payment systems.
+A non-exhaustive list of what I do: landing pages, web apps, data visualization, APIs, component libraries, primitives, design systems, screenshot-driven design, copywriting, architecture, payments.
 
 I love front. back. design. marketing. business. Sure, I lean frontend, but in the end, all about solving problems.
 
