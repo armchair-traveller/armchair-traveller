@@ -1,8 +1,6 @@
 ## Hi there! I'm Fang🦁
 
-### Builder.
-
-Sometimes, I'm a bridge.
+### Building
 
 A non-exhaustive list of what I do: landing pages, web apps, data visualization, APIs, component libraries, primitives, design systems, screenshot-driven design, copywriting, code architecture, payment systems.
 
