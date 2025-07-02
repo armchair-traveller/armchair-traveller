@@ -1,4 +1,4 @@
-## Hi there! I'm Fang🦁
+## Hi there! I'm Fang
 
 ### Building
 
@@ -6,15 +6,19 @@ A non-exhaustive list of what I do: landing pages, web apps, data visualization,
 
 I love front. back. design. marketing. product. I lean frontend, but solving problems is above all.
 
-That, and I love building anything that scratches an itch.
+That, and building anything that scratches an itch.
 
-### Tech / Uses
+### Tech
 
-I live in VSCode / Figma.
+> *"Good teams use good tools"¹*
 
-Modern scalable, architectures. Good teams use good tools. 
+I live in VS Code / Figma.
 
-Better tech excites me. Ship faster. Solve pain points. That propogates to every single team I work with. Because that's how I do my work, better!
+Modern scalable, architectures.
+
+Keep updated. The tech isn't everything, but being better excites me. Free up resources thinking about common issues so that you can focus on the hard problems and avoid the regret of work not reaching the quality it should have.
+
+*Ship faster. Solve pain points. Propogate to your team. Do better.*
 
 <p align="center">
   <img height="140" src="https://github-readme-stats-armchair-traveller.vercel.app/api/top-langs/?username=armchair-traveller&layout=compact&hide=makefile&theme=nord" alt="Most used languages" />
