@@ -1,6 +1,6 @@
 ## Hi there! I'm Fang
 
-Building IMX-ray
+Building IMX-Ray
 
 I live on matcha
 
